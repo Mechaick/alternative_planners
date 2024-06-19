@@ -1,4 +1,4 @@
-#Alternative planners
+# Alternative planners
 
 This ros2 package contain some additionnal nav2 planners, in order to understand how to make some and implement newer approaches
 
