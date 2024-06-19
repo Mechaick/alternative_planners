@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<library path="alternative_planners_plugin">
+  <class name="alternative_planners/StraightLine" type="alternative_planners::StraightLine" base_class_type="nav2_core::GlobalPlanner">
+    <description>
+      Straight Line Planner.
+    </description>
+  </class>
+</library>
+
+
+<library path="alternative_planners_plugin">
+  <class name="alternative_planners/WPE" type="alternative_planners::WPE" base_class_type="nav2_core::GlobalPlanner">
+    <description>This is an example plugin which produces the worst path.</description>
+  </class>
+</library>
